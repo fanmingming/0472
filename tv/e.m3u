@@ -60,7 +60,7 @@ rtsp://10.13.37.107:554/PLTV/88888912/224/3221226577/100001000000000600000000011
 #EXTINF:-1 tvg-name="包头生活服务" tvg-logo="https://live.fanmingming.com/tv/包头.png" group-title="地方",包头生活服务
 rtsp://10.13.37.109:554/PLTV/88888912/224/3221226600/10000100000000060000000001125937_0.smil
 #EXTINF:-1 tvg-name="包头经济频道" tvg-logo="https://live.fanmingming.com/tv/包头.png" group-title="地方",包头经济频道
-rtsp://10.11.37.108:554/PLTV/88888912/224/3221226100/10000100000000060000000000753859_0.smil
+rtsp://10.11.37.110:554/PLTV/88888912/224/3221226100/10000100000000060000000000753859_0.smil
 #EXTINF:-1 tvg-name="鄂尔多斯新闻综合" tvg-logo="https://live.fanmingming.com/tv/鄂尔多斯.png" group-title="地方",鄂尔多斯新闻综合
 rtsp://10.11.38.109:554/PLTV/88888912/224/3221226624/10000100000000060000000001126373_0.smil
 #EXTINF:-1 tvg-name="鄂尔多斯经济服务" tvg-logo="https://live.fanmingming.com/tv/鄂尔多斯.png" group-title="地方",鄂尔多斯经济服务
