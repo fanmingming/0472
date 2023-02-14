@@ -1,16 +1,19 @@
 {
   "wallpaper": "https://www.fanmingming.com/bg.php",
   "spider": "https://0472.org/0472.jar;md5;6A92E85399922FF0FD7813BBC2F09957"
-    "lives" : [
-            {
-            "group" : "redirect",
-            "channels" : [
-                    {
-                    "name" : "live",
-                    "urls" : [
-                        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3NvL2dhby9yYXcvYnJhbmNoL21hc3Rlci9saXN0LnR4dA=="]
-                }]
-        }],
+"lives": [
+{
+"group": "redirect",
+"channels": [
+{
+"name": "redirect",
+"urls": [
+"proxy://do=live&type=txt&ext=aHR0cDovL3d3dy5tOTUyNy50b3AvbWwudHh0"
+]
+}
+]
+}
+],
   "ads": [
     "www.googletagmanager.com",
     "www.google-analytics.com"
