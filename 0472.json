@@ -1,5 +1,4 @@
 {
-//直播
 "lives": [
 {
 "group": "redirect",
@@ -14,9 +13,7 @@
 }
 ],
 "spider":"https://0472.org/0472.jar;md5;aHR0cDovL3d3dy5tOTUyNy50b3AvbWwudHh0",
-//壁纸
 "wallpaper": "https://www.fanmingming.com/bg.php",
-//解码
 "ijk":[
 {"group":"软解码","options":[
 {"category":4,"name":"opensles","value":"0"},
@@ -50,6 +47,5 @@
 {"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},
 {"category":4,"name":"mediacodec-hevc","value":"1"},
 {"category":1,"name":"dns_cache_timeout","value":"600000000"}]}],
-//广告屏蔽
 "ads":["www.googletagmanager.com","www.google-analytics.com"]
 }
