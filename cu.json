@@ -1,0 +1,36 @@
+{
+  "lives": [
+    {
+      "name": "TXT",
+      "type": 0,
+      "url": "https://0472.org/cu.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://0472.org/img/{name}.png",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+      "boot": false
+    },
+    {
+      "name": "M3U",
+      "type": 0,
+      "url": "https://0472.org/cu.m3u",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://0472.org/img/{name}.png",
+      "ua": "http/3.15",
+      "boot": false
+    },
+    {
+      "name": "IJK",
+      "type": 0,
+      "url": "https://0472.org/cu.txt",
+      "playerType": 1
+    },
+    {
+      "name": "JSON",
+      "type": 1,
+      "url": "https://0472.org/cu.json",
+      "epg": "https://epg.112114.xyz/?ch={epg}&date={date}",
+      "logo": "http://0472.org/img/{logo}",
+      "boot": false
+    }
+  ]
+}
