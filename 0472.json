@@ -1,10 +1,21 @@
 {
-  "spider": "https://0472.org/0472.jar",
-  
-  "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly8wNDcyLm9yZy8wNDcyLnR4dA=="]}]}], 
-
+  "lives": [
+    {
+      "group": "redirect",
+      "channels": [
+        {
+          "name": "redirect",
+          "urls": [
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly8wNDcyLm9yZy8wNDcyLnR4dA=="
+          ]
+        }
+      ]
+    }
+  ],
   "ads": [
     "www.googletagmanager.com",
     "www.google-analytics.com"
-  ]
+  ],
+  "wallpaper": "https://www.fanmingming.com/bg.php",
+  "spider": "https://0472.org/0472.jar"
 }
