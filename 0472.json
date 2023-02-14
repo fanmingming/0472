@@ -1,4 +1,6 @@
 {
+  "wallpaper": "https://www.fanmingming.com/bg.php",
+  "spider": "https://0472.org/0472.jar;md5;e80798750eca57470f29d1942bce39bb"
     "lives" : [
             {
             "group" : "redirect",
@@ -12,7 +14,5 @@
   "ads": [
     "www.googletagmanager.com",
     "www.google-analytics.com"
-  ],
-  "wallpaper": "https://www.fanmingming.com/bg.php",
-  "spider": "https://0472.org/0472.jar;md5;e80798750eca57470f29d1942bce39bb"
+  ]
 }
