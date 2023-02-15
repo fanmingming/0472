@@ -171,10 +171,60 @@ rtsp://10.11.35.57:554/PLTV/88888912/224/3221226053/1000010000000006000000000066
 rtsp://10.11.35.56:554/PLTV/88888912/224/3221226061/10000100000000060000000000661731_0.smil
 #EXTINF:-1 tvg-name="乐游" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="少儿",乐游[标清]
 rtsp://10.11.35.57:554/PLTV/88888912/224/3221226059/10000100000000060000000000660271_0.smil
-#EXTINF:-1 tvg-name="精选" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="少儿",精选[标清]
-rtsp://10.11.35.56:554/PLTV/88888912/224/3221226065/10000100000000060000000000661884_0.smil
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="少儿",动漫秀场[标清]
 rtsp://10.11.35.57:554/PLTV/88888912/224/3221226051/10000100000000060000000000660108_0.smil
+#EXTINF:-1 tvg-name="精选" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="其他",精选[标清]
+rtsp://10.11.35.56:554/PLTV/88888912/224/3221226065/10000100000000060000000000661884_0.smil
+#EXTINF:-1 tvg-name="爱综艺" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="其他",爱综艺[标清]
+rtsp://10.11.43.21/PLTV/88888912/224/3221226694/426212090.smil
+#EXTINF:-1 tvg-name="爱体育" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="其他",爱体育[标清]
+rtsp://10.11.43.21/PLTV/88888912/224/3221226647/426212098.smil
+#EXTINF:-1 tvg-name="爱电影" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="其他",爱电影[标清]
+rtsp://10.11.43.21/PLTV/88888912/224/3221226720/426211996.smil
+#EXTINF:-1 tvg-name="爱大剧" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="其他",爱大剧[标清]
+rtsp://10.11.43.21/PLTV/88888912/224/3221226669/426212003.smil
+#EXTINF:-1 tvg-name="谍战剧场" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="其他",谍战剧场[标清]
+rtsp://10.11.43.21/PLTV/88888912/224/3221226661/426212094.smil
+#EXTINF:-1 tvg-name="IPTV野外" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="其他",IPTV野外[标清]
+rtsp://10.11.43.21/PLTV/88888912/224/3221225945/10000100000000060000000000633024_0.smil
+#EXTINF:-1 tvg-name="足球" tvg-logo="https://live.fanmingming.com/tv/足球.png" group-title="其他",足球[标清]
+rtsp://10.11.43.21/PLTV/88888912/224/3221226071/10000100000000060000000000662167_0.smil
+#EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="其他",古装剧场[标清]
+rtsp://10.11.43.21/PLTV/88888912/224/3221226710/426212046.smil
+#EXTINF:-1 tvg-name="城市剧场" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="其他",城市剧场[标清]
+rtsp://10.11.43.21/PLTV/88888912/224/3221226744/426211940.smil
+#EXTINF:-1 tvg-name="音乐现场" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="其他",音乐现场[标清]
+rtsp://10.11.43.21/PLTV/88888912/224/3221226060/10000100000000060000000000661732_0.smil
+#EXTINF:-1 tvg-name="星影" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="其他",星影[标清]
+rtsp://10.11.43.21/PLTV/88888912/224/3221226074/10000100000000060000000000662606_0.smil
+#EXTINF:-1 tvg-name="武侠剧场" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="其他",武侠剧场[标清]
+rtsp://10.11.43.21/PLTV/88888912/224/3221226718/426211960.smil
+#EXTINF:-1 tvg-name="动作影院" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="其他",动作影院[标清]
+rtsp://10.11.43.21/PLTV/88888912/224/3221226073/10000100000000060000000000662607_0.smil
+#EXTINF:-1 tvg-name="地理" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="其他",地理[标清]
+rtsp://10.11.43.21/PLTV/88888912/224/3221226062/10000100000000060000000000661755_0.smil
+#EXTINF:-1 tvg-name="动画" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="其他",动画[标清]
+rtsp://10.11.43.21/PLTV/88888912/224/3221226063/10000100000000060000000000661886_0.smil
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="其他",都市剧场[标清]
+rtsp://10.11.43.21/PLTV/88888912/224/3221226665/426212074.smil
+#EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="其他",少儿动画[标清]
+rtsp://10.11.43.21/PLTV/88888912/224/3221226690/426212102.smil
+#EXTINF:-1 tvg-name="喜剧影院" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="其他",喜剧影院[标清]
+rtsp://10.11.43.21/PLTV/88888912/224/3221226070/10000100000000060000000000662147_0.smil
+#EXTINF:-1 tvg-name="早教" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="其他",早教[标清]
+rtsp://10.11.43.21/PLTV/88888912/224/3221226680/395120477.smil
+#EXTINF:-1 tvg-name="家庭影院" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="其他",家庭影院[标清]
+rtsp://10.11.43.21/PLTV/88888912/224/3221226072/10000100000000060000000000662608_0.smil
+#EXTINF:-1 tvg-name="好学生" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="其他",好学生[标清]
+rtsp://10.11.43.21/PLTV/88888912/224/3221225822/10000100000000060000000000377237_0.smil
+#EXTINF:-1 tvg-name="魅力时尚" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="其他",魅力时尚[标清]
+rtsp://10.11.43.21/PLTV/88888912/224/3221226047/10000100000000060000000000660092_0.smil
+#EXTINF:-1 tvg-name="光影" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="其他",光影[标清]
+rtsp://10.11.43.21/PLTV/88888912/224/3221226067/10000100000000060000000000662085_0.smil
+#EXTINF:-1 tvg-name="法治" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="其他",法治[标清]
+rtsp://10.11.43.21/PLTV/88888912/224/3221226075/10000100000000060000000000662622_0.smil
+#EXTINF:-1 tvg-name="相声小品" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="其他",相声小品[标清]
+rtsp://10.11.43.21/PLTV/88888912/224/3221226052/10000100000000060000000000660107_0.smil
 #EXTINF:-1 tvg-name="内蒙古蒙语卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="标清",内蒙古蒙语卫视[标清]
 rtsp://10.11.35.56:554/PLTV/88888912/224/3221226085/10000100000000060000000000663203_0.smil
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="标清",内蒙古汉语卫视[标清]
