@@ -257,5 +257,5 @@ rtsp://10.13.37.112:554/PLTV/88888912/224/3221226697/426211944.smil
 rtsp://10.11.33.81:554/PLTV/88888912/224/3221226700/403187541.smil
 #EXTINF:-1 tvg-name="三佳购物" tvg-logo="https://live.fanmingming.com/tv/三佳购物.png" group-title="购物",三佳购物[标清]
 rtsp://10.13.37.114:554/PLTV/88888912/224/3221226637/398429771.smil
-#EXTINF:-1 tvg-name="4K测试" tvg-logo="https://live.fanmingming.com/tv/4K.png" group-title="4K频道",4K测试
+#EXTINF:-1 tvg-name="4K测试" tvg-logo="https://live.fanmingming.com/tv/4K.png" group-title="测试",4K测试
 rtsp://10.11.43.21/PLTV/88888912/224/3221226658/395123164.smil
