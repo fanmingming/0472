@@ -51,6 +51,8 @@ rtsp://10.11.33.84:554/PLTV/88888912/224/3221226625/394108015.smil
 rtsp://10.11.33.82:554/PLTV/88888912/224/3221226646/394108011.smil
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="央视",CGTN俄语
 rtsp://10.11.33.83:554/PLTV/88888912/224/3221226650/394108007.smil
+#EXTINF:-1 tvg-name="4K" tvg-logo="https://live.fanmingming.com/tv/4K.png" group-title="4K频道",4K
+rtsp://10.11.43.21/PLTV/88888912/224/3221226658/395123164.smil
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="地方",内蒙古卫视
 rtsp://10.11.35.57:554/PLTV/88888912/224/3221226078/10000100000000060000000000662786_0.smil
 #EXTINF:-1 tvg-name="内蒙古新闻综合" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="地方",内蒙古新闻综合
