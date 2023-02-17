@@ -1,0 +1,64 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>在线BASE64编码解码</title>
+<meta name="keywords" content="在线base64编码解码,base64加密解密,base64中文在线解码">
+<meta name="description" content="本工具可以将字符串做base64编码加密，或者将base64加密之后的字符串还原">
+<meta http-equiv="Cache-Control" content="no-transform">
+<meta http-equiv="Cache-Control" content="no-siteapp">
+<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,user-scalable=yes">
+<link rel="shortcut icon" href="/favicon.png" type="image/x-icon">
+<link rel="stylesheet" href="components/bootstrap/css/bootstrap.min.css">
+<link href="css/common/main.css?v=377" rel="stylesheet" type="text/css">
+</head>
+<body>
+<div id="mainContent" class="wrapper">
+<div class="row"><div class="col-lg-9">
+<div id="matoolsFloatDiv"><a href="https://www.fanmingming.com" target="_top"> By fanmingming.com </a></div>
+<div class="leftBar">
+<h2 class="title">明文:</h2>
+<textarea class="form-control" name="message" id="source"> CNM </textarea>
+</div>
+<div class="operateLR">
+<div class="OptDetail">
+<button class="btn btn-primary" onclick="javascript:base64_encode();" style="margin-bottom: 10px;">
+编 码<i class="glyphicon glyphicon-chevron-right"></i>
+</button>
+<button class="btn btn-primary" onclick="javascript:base64_decode();">
+<i class="glyphicon glyphicon-chevron-left"></i>解 码
+</button>
+</div>
+</div>
+<div class="rightBar">
+<h2 class="title">BASE64:</h2>
+<textarea class="form-control" name="cipher" id="result"></textarea>
+</div>
+</div></div>
+</div>
+
+<script type="text/javascript" src="js/common/common.js"></script>
+<script type="text/javascript" src="js/common/main11.11.9.js?v=489" charset="utf-8"></script>
+<script type="text/javascript" src="components/core-min.js"></script>
+<script type="text/javascript" src="components/enc-base64-min.js"></script>
+<script type="text/javascript">
+		function base64_encode() {
+			if ($("#source").val() == "") {
+				$("#source").focus();
+				return false;
+			}
+			var str = CryptoJS.enc.Utf8.parse($("#source").val());
+			var base64 = CryptoJS.enc.Base64.stringify(str);
+			$("#result").val(base64);
+		}
+		function base64_decode() {
+			if ($("#result").val() == "") {
+				$("#result").focus();
+				return false;
+			}
+			var words = CryptoJS.enc.Base64.parse($("#result").val());
+			$("#source").val(words.toString(CryptoJS.enc.Utf8));
+		}
+	</script>
+
+</body>
+</html>
