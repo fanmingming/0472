@@ -245,6 +245,8 @@ rtsp://10.11.43.21/PLTV/88888912/224/3221225809/10000100000000060000000000331301
 rtsp://10.11.43.21/PLTV/88888912/224/3221226052/10000100000000060000000000660107_0.smil
 #EXTINF:-1 tvg-name="收视指南" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="数字",收视指南[标清]
 rtsp://10.11.43.21/PLTV/88888912/224/3221226076/10000100000000060000000000662621_0.smil
+#EXTINF:-1 tvg-name="爱生活" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="数字",爱生活[标清]
+rtsp://10.11.43.21/PLTV/88888912/224/3221226076/10000100000000060000000000662621_0.smil
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="标清",内蒙古卫视[标清]
 rtsp://10.11.35.55:554/PLTV/88888912/224/3221226081/10000100000000060000000000662884_0.smil
 #EXTINF:-1 tvg-name="内蒙古新闻综合" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="标清",内蒙古新闻综合[标清]
