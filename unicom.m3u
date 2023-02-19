@@ -29,6 +29,8 @@ http://10.11.43.21/PLTV/88888912/224/3221226678/382484600.smil/01.m3u8?fmt=ts2hl
 http://10.11.43.21/PLTV/88888912/224/3221226456/10000100000000060000000000870189_0.smil/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视",CCTV15
 http://10.11.43.21/PLTV/88888912/224/3221226103/10000100000000060000000000719621_0.smil/01.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视",CCTV15
+http://10.11.43.21/PLTV/88888912/224/3221226643/411164633.smil/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",CCTV17
 http://10.11.43.21/PLTV/88888912/224/3221226654/394801661.smil/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视",CGTN英语
@@ -55,32 +57,6 @@ http://10.11.43.21/PLTV/88888912/224/3221226577/10000100000000060000000001125938
 http://10.11.43.21/PLTV/88888912/224/3221226600/10000100000000060000000001125937_0.smil/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="包头经济频道" tvg-logo="https://live.fanmingming.com/tv/包头.png" group-title="地方",包头经济频道
 http://10.11.43.21/PLTV/88888912/224/3221226100/10000100000000060000000000753859_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="呼和浩特新闻综合" tvg-logo="https://live.fanmingming.com/tv/呼和浩特.png" group-title="地方",呼和浩特新闻综合
-http://10.11.43.21/PLTV/88888912/224/3221226585/10000100000000060000000001126204_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="呼和浩特都市生活" tvg-logo="https://live.fanmingming.com/tv/呼和浩特.png" group-title="地方",呼和浩特都市生活
-http://10.11.43.21/PLTV/88888912/224/3221226587/10000100000000060000000001126205_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="呼和浩特影视娱乐" tvg-logo="https://live.fanmingming.com/tv/呼和浩特.png" group-title="地方",呼和浩特影视娱乐
-http://10.11.43.21/PLTV/88888912/224/3221226594/10000100000000060000000001126199_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="鄂尔多斯新闻综合" tvg-logo="https://live.fanmingming.com/tv/鄂尔多斯.png" group-title="地方",鄂尔多斯新闻综合
-http://10.11.43.21/PLTV/88888912/224/3221226624/10000100000000060000000001126373_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="鄂尔多斯经济服务" tvg-logo="https://live.fanmingming.com/tv/鄂尔多斯.png" group-title="地方",鄂尔多斯经济服务
-http://10.11.43.21/PLTV/88888912/224/3221226591/10000100000000060000000001126372_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="鄂尔多斯城市生活" tvg-logo="https://live.fanmingming.com/tv/鄂尔多斯.png" group-title="地方",鄂尔多斯城市生活
-http://10.11.43.21/PLTV/88888912/224/3221226628/10000100000000060000000001126371_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="鄂尔多斯蒙语频道" tvg-logo="https://live.fanmingming.com/tv/鄂尔多斯.png" group-title="地方",鄂尔多斯蒙语频道
-http://10.11.43.21/PLTV/88888912/224/3221226593/10000100000000060000000001126370_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="呼伦贝尔新闻综合" tvg-logo="https://live.fanmingming.com/tv/呼伦贝尔.png" group-title="地方",呼伦贝尔新闻综合
-http://10.11.34.84/PLTV/88888912/224/3221226590/10000100000000060000000001125948_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="呼伦贝尔生活资讯" tvg-logo="https://live.fanmingming.com/tv/呼伦贝尔.png" group-title="地方",呼伦贝尔生活资讯
-http://10.11.34.84/PLTV/88888912/224/3221226581/10000100000000060000000001126189_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="呼伦贝尔文化旅游" tvg-logo="https://live.fanmingming.com/tv/呼伦贝尔.png" group-title="地方",呼伦贝尔文化旅游
-http://10.11.34.84/PLTV/88888912/224/3221226575/10000100000000060000000001125947_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="乌兰察布新闻综合" tvg-logo="https://live.fanmingming.com/tv/乌兰察布.png" group-title="地方",乌兰察布新闻综合
-http://10.11.43.21/PLTV/88888912/224/3221226608/10000100000000060000000001126186_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="乌兰察布经济生活" tvg-logo="https://live.fanmingming.com/tv/乌兰察布.png" group-title="地方",乌兰察布经济生活
-http://10.11.43.21/PLTV/88888912/224/3221226579/10000100000000060000000001126187_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="杭锦旗综合" tvg-logo="https://live.fanmingming.com/tv/杭锦旗综合.png" group-title="地方",杭锦旗综合
-http://10.11.43.21/PLTV/88888912/224/3221226692/400889051.smil/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视",湖南卫视
 http://10.11.43.21/PLTV/88888912/224/3221226449/10000100000000060000000000871723_0.smil/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视",浙江卫视
