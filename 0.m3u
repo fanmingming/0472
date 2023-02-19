@@ -29,28 +29,8 @@ http://10.11.43.21/PLTV/88888912/224/3221226678/382484600.smil/01.m3u8?fmt=ts2hl
 http://10.11.43.21/PLTV/88888912/224/3221226456/10000100000000060000000000870189_0.smil/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视",CCTV15
 http://10.11.43.21/PLTV/88888912/224/3221226103/10000100000000060000000000719621_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV16
-http://10.11.43.21/PLTV/88888912/224/3221226643/411164633.smil/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",CCTV17
 http://10.11.43.21/PLTV/88888912/224/3221226654/394801661.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4欧洲.png" group-title="央视",CCTV4欧洲
-http://10.11.43.21/PLTV/88888912/224/3221226638/394108021.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4美洲.png" group-title="央视",CCTV4美洲
-http://10.11.43.21/PLTV/88888912/224/3221226642/394108651.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",CCTV5+
-http://10.11.43.21/PLTV/88888912/224/3221226077/10000100000000060000000000662662_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视",CGTN英语
-http://10.11.43.21/PLTV/88888912/224/3221226615/394108645.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CGTN记录" tvg-logo="https://live.fanmingming.com/tv/CGTNDoc.png" group-title="央视",CGTN记录
-http://10.11.43.21/PLTV/88888912/224/3221226619/394108649.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png" group-title="央视",CGTN西语
-http://10.11.33.83:554/PLTV/88888912/224/3221226676/394108020.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png" group-title="央视",CGTN法语
-http://10.11.43.21/PLTV/88888912/224/3221226625/394108015.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="央视",CGTN阿语
-http://10.11.43.21/PLTV/88888912/224/3221226646/394108011.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="央视",CGTN俄语
-http://10.11.43.21/PLTV/88888912/224/3221226650/394108007.smil/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="地方",内蒙古卫视
 http://10.11.43.21/PLTV/88888912/224/3221226078/10000100000000060000000000662786_0.smil/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="内蒙古新闻综合" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="地方",内蒙古新闻综合
@@ -189,93 +169,3 @@ http://10.11.43.21/PLTV/88888912/224/3221226061/10000100000000060000000000661731
 http://10.11.43.21/PLTV/88888912/224/3221226059/10000100000000060000000000660271_0.smil/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="少儿",动漫秀场[标清]
 http://10.11.43.21/PLTV/88888912/224/3221226051/10000100000000060000000000660108_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="精选" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="数字",精选[标清]
-http://10.11.43.21/PLTV/88888912/224/3221226065/10000100000000060000000000661884_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="爱综艺" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="数字",爱综艺[标清]
-http://10.11.43.21/PLTV/88888912/224/3221226694/426212090.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="爱体育" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="数字",爱体育[标清]
-http://10.11.43.21/PLTV/88888912/224/3221226647/426212098.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="爱电影" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="数字",爱电影[标清]
-http://10.11.43.21/PLTV/88888912/224/3221226720/426211996.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="爱大剧" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="数字",爱大剧[标清]
-http://10.11.43.21/PLTV/88888912/224/3221226669/426212003.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="爱生活" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="数字",爱生活[标清]
-http://10.11.43.21/PLTV/88888912/224/3221226764/426212058.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="谍战剧场" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="数字",谍战剧场[标清]
-http://10.11.43.21/PLTV/88888912/224/3221226661/426212094.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="IPTV野外" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="数字",IPTV野外[标清]
-http://10.11.43.21/PLTV/88888912/224/3221225945/10000100000000060000000000633024_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="足球" tvg-logo="https://live.fanmingming.com/tv/足球.png" group-title="数字",足球[标清]
-http://10.11.43.21/PLTV/88888912/224/3221226071/10000100000000060000000000662167_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="数字",古装剧场[标清]
-http://10.11.43.21/PLTV/88888912/224/3221226710/426212046.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="城市剧场" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="数字",城市剧场[标清]
-http://10.11.43.21/PLTV/88888912/224/3221226744/426211940.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="音乐现场" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="数字",音乐现场[标清]
-http://10.11.43.21/PLTV/88888912/224/3221226060/10000100000000060000000000661732_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="星影" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="数字",星影[标清]
-http://10.11.43.21/PLTV/88888912/224/3221226074/10000100000000060000000000662606_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="武侠剧场" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="数字",武侠剧场[标清]
-http://10.11.43.21/PLTV/88888912/224/3221226718/426211960.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="动作影院" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="数字",动作影院[标清]
-http://10.11.43.21/PLTV/88888912/224/3221226073/10000100000000060000000000662607_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="地理" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="数字",地理[标清]
-http://10.11.43.21/PLTV/88888912/224/3221226062/10000100000000060000000000661755_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="动画" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="数字",动画[标清]
-http://10.11.43.21/PLTV/88888912/224/3221226063/10000100000000060000000000661886_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="数字",都市剧场[标清]
-http://10.11.43.21/PLTV/88888912/224/3221226665/426212074.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="数字",少儿动画[标清]
-http://10.11.43.21/PLTV/88888912/224/3221226690/426212102.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="喜剧影院" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="数字",喜剧影院[标清]
-http://10.11.43.21/PLTV/88888912/224/3221226070/10000100000000060000000000662147_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="早教" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="数字",早教[标清]
-http://10.11.43.21/PLTV/88888912/224/3221226680/395120477.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="家庭影院" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="数字",家庭影院[标清]
-http://10.11.43.21/PLTV/88888912/224/3221226072/10000100000000060000000000662608_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="好学生" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="数字",好学生[标清]
-http://10.11.43.21/PLTV/88888912/224/3221225822/10000100000000060000000000377237_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="魅力时尚" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="数字",魅力时尚[标清]
-http://10.11.43.21/PLTV/88888912/224/3221226047/10000100000000060000000000660092_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="光影" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="数字",光影[标清]
-http://10.11.43.21/PLTV/88888912/224/3221226067/10000100000000060000000000662085_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="法治" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="数字",法治[标清]
-http://10.11.43.21/PLTV/88888912/224/3221226075/10000100000000060000000000662622_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="美人" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="数字",美人[标清]
-http://10.11.43.21/PLTV/88888912/224/3221225809/10000100000000060000000000331301_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="相声小品" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="数字",相声小品[标清]
-http://10.11.43.21/PLTV/88888912/224/3221226052/10000100000000060000000000660107_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="收视指南" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="数字",收视指南[标清]
-http://10.11.43.21/PLTV/88888912/224/3221226076/10000100000000060000000000662621_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="标清",内蒙古卫视[标清]
-http://10.11.43.21/PLTV/88888912/224/3221226081/10000100000000060000000000662884_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="内蒙古新闻综合" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="标清",内蒙古新闻综合[标清]
-http://10.11.43.21/PLTV/88888912/224/3221226083/10000100000000060000000000662899_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="内蒙古经济生活" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="标清",内蒙古经济生活[标清]
-http://10.11.43.21/PLTV/88888912/224/3221226082/10000100000000060000000000662897_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="内蒙古文体娱乐" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="标清",内蒙古文体娱乐[标清]
-http://10.11.43.21/PLTV/88888912/224/3221226084/10000100000000060000000000662900_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="内蒙古农牧频道" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="标清",内蒙古农牧频道[标清]
-http://10.11.43.21/PLTV/88888912/224/3221226079/10000100000000060000000000662787_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="内蒙古少儿频道" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="标清",内蒙古少儿频道[标清]
-http://10.11.43.21/PLTV/88888912/224/3221226080/10000100000000060000000000662883_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="内蒙古蒙语卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="标清",内蒙古蒙语卫视[标清]
-http://10.11.43.21/PLTV/88888912/224/3221226085/10000100000000060000000000663203_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="内蒙古蒙语文化" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="标清",内蒙古蒙语文化[标清]
-http://10.11.43.21/PLTV/88888912/224/3221226087/10000100000000060000000000663218_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="央广购物" tvg-logo="https://live.fanmingming.com/tv/央广购物.png" group-title="购物",央广购物[标清]
-http://10.11.43.21/PLTV/88888912/224/3221226461/10000100000000060000000000932159_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="聚鲨环球精选" tvg-logo="https://live.fanmingming.com/tv/聚鲨环球精选.png" group-title="购物",聚鲨环球精选[标清]
-http://10.11.43.21/PLTV/88888912/224/3221226724/426212070.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="家有购物" tvg-logo="https://live.fanmingming.com/tv/家有购物.png" group-title="购物",家有购物[标清]
-http://10.11.43.21/PLTV/88888912/224/3221226701/426211924.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="时尚购物" tvg-logo="https://live.fanmingming.com/tv/时尚购物.png" group-title="购物",时尚购物[标清]
-http://10.11.43.21/PLTV/88888912/224/3221225879/10000100000000060000000000576082_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="优购物" tvg-logo="https://live.fanmingming.com/tv/优购物.png" group-title="购物",优购物[标清]
-http://10.11.43.21/PLTV/88888912/224/3221226697/426211944.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="好享购物" tvg-logo="https://live.fanmingming.com/tv/好享购物.png" group-title="购物",好享购物[标清]
-http://10.11.43.21/PLTV/88888912/224/3221226700/403187541.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="三佳购物" tvg-logo="https://live.fanmingming.com/tv/三佳购物.png" group-title="购物",三佳购物[标清]
-http://10.11.43.21/PLTV/88888912/224/3221226637/398429771.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="UHD",爱上4K
-http://10.11.43.21/PLTV/88888912/224/3221226658/395123164.smil/01.m3u8?fmt=ts2hls
