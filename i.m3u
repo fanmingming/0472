@@ -189,6 +189,8 @@ rtsp://10.11.35.56:554/PLTV/88888912/224/3221226061/1000010000000006000000000066
 rtsp://10.11.35.57:554/PLTV/88888912/224/3221226059/10000100000000060000000000660271_0.smil
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="少儿",动漫秀场[标清]
 rtsp://10.11.35.57:554/PLTV/88888912/224/3221226051/10000100000000060000000000660108_0.smil
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="数字",都市剧场[标清]
+rtsp://10.11.43.21/PLTV/88888912/224/3221226665/426212074.smil
 #EXTINF:-1 tvg-name="精选" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="数字",精选[标清]
 rtsp://10.11.35.56:554/PLTV/88888912/224/3221226065/10000100000000060000000000661884_0.smil
 #EXTINF:-1 tvg-name="爱综艺" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="数字",爱综艺[标清]
@@ -223,8 +225,6 @@ rtsp://10.11.43.21/PLTV/88888912/224/3221226073/10000100000000060000000000662607
 rtsp://10.11.43.21/PLTV/88888912/224/3221226062/10000100000000060000000000661755_0.smil
 #EXTINF:-1 tvg-name="动画" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="数字",动画[标清]
 rtsp://10.11.43.21/PLTV/88888912/224/3221226063/10000100000000060000000000661886_0.smil
-#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="数字",都市剧场[标清]
-rtsp://10.11.43.21/PLTV/88888912/224/3221226665/426212074.smil
 #EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="数字",少儿动画[标清]
 rtsp://10.11.43.21/PLTV/88888912/224/3221226690/426212102.smil
 #EXTINF:-1 tvg-name="喜剧影院" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="数字",喜剧影院[标清]
