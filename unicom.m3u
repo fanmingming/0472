@@ -29,7 +29,7 @@ http://10.11.43.21/PLTV/88888912/224/3221226678/382484600.smil/01.m3u8?fmt=ts2hl
 http://10.11.43.21/PLTV/88888912/224/3221226456/10000100000000060000000000870189_0.smil/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视",CCTV15
 http://10.11.43.21/PLTV/88888912/224/3221226103/10000100000000060000000000719621_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视",CCTV15
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV16
 http://10.11.43.21/PLTV/88888912/224/3221226643/411164633.smil/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",CCTV17
 http://10.11.43.21/PLTV/88888912/224/3221226654/394801661.smil/01.m3u8?fmt=ts2hls
@@ -125,25 +125,25 @@ http://10.11.43.21/PLTV/88888912/224/3221226706/426211984.smil/01.m3u8?fmt=ts2hl
 http://10.11.43.21/PLTV/88888912/224/3221226768/433549663.smil/01.m3u8?fmt=ts2hls
 #EXTINF:-1tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="卫视",纪实人文
 http://10.11.43.21/PLTV/88888912/224/3221226489/10000100000000060000000001119244_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="教育",CETV1[标清]
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="其他",CETV1[标清]
 http://10.11.43.21/PLTV/88888912/224/3221226698/426212016.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="教育",CETV2[标清]
+#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="其他",CETV2[标清]
 http://10.11.43.21/PLTV/88888912/224/3221226050/10000100000000060000000000660100_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="教育",CETV4[标清]
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="其他",CETV4[标清]
 http://10.11.43.21/PLTV/88888912/224/3221226437/10000100000000060000000000834035_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://live.fanmingming.com/tv/山东教育.png" group-title="教育",山东教育[标清]
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://live.fanmingming.com/tv/山东教育.png" group-title="其他",山东教育[标清]
 http://10.11.43.21/PLTV/88888912/224/3221226752/426211906.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="卡酷动画" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="少儿",卡酷少儿[标清]
+#EXTINF:-1 tvg-name="卡酷动画" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="其他",卡酷少儿[标清]
 http://10.11.43.21/PLTV/88888912/224/3221226651/426212078.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="少儿",金鹰卡通[标清]
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="其他",金鹰卡通[标清]
 http://10.11.43.21/PLTV/88888912/224/3221226716/426212012.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="少儿",嘉佳卡通[标清]
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="其他",嘉佳卡通[标清]
 http://10.11.43.21/PLTV/88888912/224/3221226704/394902423.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="少儿",游戏风云[标清]
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="其他",游戏风云[标清]
 http://10.11.43.21/PLTV/88888912/224/3221226053/10000100000000060000000000660229_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title="少儿",金色学堂[标清]
+#EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title="其他",金色学堂[标清]
 http://10.11.43.21/PLTV/88888912/224/3221226061/10000100000000060000000000661731_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="乐游" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="少儿",乐游[标清]
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="其他",乐游[标清]
 http://10.11.43.21/PLTV/88888912/224/3221226059/10000100000000060000000000660271_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="少儿",动漫秀场[标清]
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="其他",动漫秀场[标清]
 http://10.11.43.21/PLTV/88888912/224/3221226051/10000100000000060000000000660108_0.smil/01.m3u8?fmt=ts2hls
