@@ -259,10 +259,14 @@ http://10.11.43.21/PLTV/88888912/224/3221226659/426211992.smil/01.m3u8?fmt=ts2hl
 http://10.11.43.21/PLTV/88888912/224/3221226673/426211988.smil/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="标清",CCTV10[标清]
 http://10.11.43.21/PLTV/88888912/224/3221226712/426212082.smil/01.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="标清",CCTV11[标清]
+http://10.11.43.21/PLTV/88888912/224/3221226699/426211166.smil/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="标清",CCTV12[标清]
 http://10.11.43.21/PLTV/88888912/224/3221226663/426212066.smil/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="标清",CCTV14[标清]
 http://10.11.43.21/PLTV/88888912/224/3221226742/426211170.smil/01.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="标清",CCTV15[标清]
+http://10.11.43.21/PLTV/88888912/224/3221226689/426211980.smil/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="标清",内蒙古卫视[标清]
 http://10.11.43.21/PLTV/88888912/224/3221226081/10000100000000060000000000662884_0.smil/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="内蒙古新闻综合" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="标清",内蒙古新闻综合[标清]
@@ -299,6 +303,14 @@ http://10.11.43.21/PLTV/88888912/224/3221226756/426211900.smil/01.m3u8?fmt=ts2hl
 http://10.11.43.21/PLTV/88888912/224/3221226748/426211932.smil/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="标清",安徽卫视[标清]
 http://10.11.43.21/PLTV/88888912/224/3221226734/426211896.smil/01.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="标清",江西卫视[标清]
+http://10.11.43.21/PLTV/88888912/224/3221226667/426212034.smil/01.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="标清",重庆卫视[标清]
+http://10.11.43.21/PLTV/88888912/224/3221226721/426211158.smil/01.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="标清",浙江卫视[标清]
+http://10.11.43.21/PLTV/88888912/224/3221226760/426211174.smil/01.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="标清",河北卫视[标清]
+http://10.11.43.21/PLTV/88888912/224/3221226728/426212050.smil/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="央广购物" tvg-logo="https://live.fanmingming.com/tv/央广购物.png" group-title="购物",央广购物[标清]
 http://10.11.43.21/PLTV/88888912/224/3221226461/10000100000000060000000000932159_0.smil/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="聚鲨环球精选" tvg-logo="https://live.fanmingming.com/tv/聚鲨环球精选.png" group-title="购物",聚鲨环球精选[标清]
