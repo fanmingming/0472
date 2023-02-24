@@ -97,6 +97,8 @@ http://10.11.43.21/PLTV/88888912/224/3221226575/10000100000000060000000001125947
 http://10.11.43.21/PLTV/88888912/224/3221226608/10000100000000060000000001126186_0.smil/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="乌兰察布经济生活" tvg-logo="https://live.fanmingming.com/tv/乌兰察布.png" group-title="地方",乌兰察布经济生活
 http://10.11.43.21/PLTV/88888912/224/3221226579/10000100000000060000000001126187_0.smil/01.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="达拉特旗综合" tvg-logo="https://live.fanmingming.com/tv/达拉特旗.png" group-title="地方",达拉特旗综合
+http://10.11.43.21/PLTV/88888912/224/3221226729/447505967.smil/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="杭锦旗综合" tvg-logo="https://live.fanmingming.com/tv/杭锦旗综合.png" group-title="地方",杭锦旗综合
 http://10.11.43.21/PLTV/88888912/224/3221226692/400889051.smil/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视",湖南卫视
