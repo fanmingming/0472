@@ -331,7 +331,7 @@ http://10.11.43.21/PLTV/88888912/224/3221226760/426211174.smil/01.m3u8?fmt=ts2hl
 http://10.11.43.21/PLTV/88888912/224/3221226728/426212050.smil/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="央广购物" tvg-logo="https://0472.org/img/央广购物.png" group-title="购物",央广购物[标清]
 http://10.11.43.21/PLTV/88888912/224/3221226461/10000100000000060000000000932159_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="聚鲨环球精选" tvg-logo="https://0472.org/img/聚鲨环球内蒙古IPTV.png" group-title="购物",聚鲨环球精选[标清]
+#EXTINF:-1 tvg-name="聚鲨环球精选" tvg-logo="https://0472.org/img/聚鲨环球精选.png" group-title="购物",聚鲨环球精选[标清]
 http://10.11.43.21/PLTV/88888912/224/3221226724/426212070.smil/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="家有购物" tvg-logo="https://0472.org/img/家有购物.png" group-title="购物",家有购物[标清]
 http://10.11.43.21/PLTV/88888912/224/3221226701/426211924.smil/01.m3u8?fmt=ts2hls
